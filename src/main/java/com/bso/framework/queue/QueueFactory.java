@@ -1,9 +1,9 @@
-package cn.org.itpolaris.queue;
+package com.bso.framework.queue;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
-import cn.org.itpolaris.queue.circle.TimingCircleQueue;
+import com.bso.framework.queue.circle.TimingCircleQueue;
 
 public class QueueFactory {
 	

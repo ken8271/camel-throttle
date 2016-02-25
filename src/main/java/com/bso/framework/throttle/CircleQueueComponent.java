@@ -1,4 +1,4 @@
-package cn.org.itpolaris.throttle;
+package com.bso.framework.throttle;
 
 import java.util.Map;
 

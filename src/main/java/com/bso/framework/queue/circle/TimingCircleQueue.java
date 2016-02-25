@@ -1,10 +1,10 @@
-package cn.org.itpolaris.queue.circle;
+package com.bso.framework.queue.circle;
 
 import java.util.Date;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
-import cn.org.itpolaris.queue.AbstractQueue;
+import com.bso.framework.queue.AbstractQueue;
 
 public class TimingCircleQueue<E> extends AbstractQueue<E> {
 	

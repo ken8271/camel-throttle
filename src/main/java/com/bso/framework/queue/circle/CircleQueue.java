@@ -1,6 +1,6 @@
-package cn.org.itpolaris.queue.circle;
+package com.bso.framework.queue.circle;
 
-import cn.org.itpolaris.queue.AbstractQueue;
+import com.bso.framework.queue.AbstractQueue;
 
 public class CircleQueue<E> extends AbstractQueue<E> {
 	

@@ -1,4 +1,4 @@
-package cn.org.itpolaris.throttle;
+package com.bso.framework.throttle;
 
 import org.apache.camel.Consumer;
 import org.apache.camel.Exchange;
@@ -8,8 +8,8 @@ import org.apache.camel.impl.DefaultEndpoint;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import cn.org.itpolaris.queue.Queue;
-import cn.org.itpolaris.queue.QueueFactory;
+import com.bso.framework.queue.Queue;
+import com.bso.framework.queue.QueueFactory;
 
 /**
  * Represents a CircleQueue endpoint.

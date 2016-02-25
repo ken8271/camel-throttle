@@ -1,4 +1,4 @@
-package cn.org.itpolaris.queue;
+package com.bso.framework.queue;
 
 public abstract class AbstractQueue<E> implements Queue<E> {
 	public static final int DEFAULT_CAPACITY = 1000;

@@ -1,4 +1,4 @@
-package cn.org.itpolaris.queue;
+package com.bso.framework.queue;
 
 public interface Queue<E> {
 	public boolean offer(E e);

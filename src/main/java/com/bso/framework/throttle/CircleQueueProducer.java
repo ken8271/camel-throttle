@@ -1,11 +1,11 @@
-package cn.org.itpolaris.throttle;
+package com.bso.framework.throttle;
 
 import org.apache.camel.Exchange;
 import org.apache.camel.impl.DefaultProducer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import cn.org.itpolaris.queue.Queue;
+import com.bso.framework.queue.Queue;
 
 /**
  * The CircleQueue producer.
